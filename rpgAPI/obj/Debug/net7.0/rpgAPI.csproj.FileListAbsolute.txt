@@ -31,3 +31,5 @@ C:\Users\onura\Desktop\rpgAPI\rpgAPI\rpgAPI\obj\Debug\net7.0\refint\rpgAPI.dll
 C:\Users\onura\Desktop\rpgAPI\rpgAPI\rpgAPI\obj\Debug\net7.0\rpgAPI.pdb
 C:\Users\onura\Desktop\rpgAPI\rpgAPI\rpgAPI\obj\Debug\net7.0\rpgAPI.genruntimeconfig.cache
 C:\Users\onura\Desktop\rpgAPI\rpgAPI\rpgAPI\obj\Debug\net7.0\ref\rpgAPI.dll
+C:\Users\onura\Desktop\rpgAPI\rpgAPI\rpgAPI\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\onura\Desktop\rpgAPI\rpgAPI\rpgAPI\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
