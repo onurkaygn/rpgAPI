@@ -1,0 +1,2 @@
+# rpgAPI
+ Basic RPG API.
