@@ -1,6 +1,6 @@
-﻿namespace rpgAPI.Models
+﻿namespace rpgAPI.Dtos.Character
 {
-    public class Character
+    public class UpdateCharacterDto
     {
         public int Id { get; set; }
         public string Name { get; set; } = "Frodo";
